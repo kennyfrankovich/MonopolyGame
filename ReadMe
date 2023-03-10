@@ -1,0 +1,9 @@
+My name is Kenny Frankovich and this is my first big coding project I ever did
+
+I got the idea from a youtube video about making AI run through a game of Monopoly, and I thought I'd try it myself and this is it.
+It doesn't work super well right now but the framework is there, so if anyone has any suggestions that would be great. 
+This is also my first time using GitHub, so I don't know how to use it and if I did something incorrectly with the setup of the project that would be nice to know. 
+Thanks!
+
+There are also other games you can play if you change the Run class main method to the other one that is there. 
+The only other games that work as of today, 3/10/2023 are Tic Tac Toe and Connect 4.
